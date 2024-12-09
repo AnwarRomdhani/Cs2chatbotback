@@ -1,0 +1,14 @@
+
+sentence-transformers==2.2.2  # For text embedding
+chromadb==0.4.8               # Vector database for embeddings
+transformers==4.33.2          # HuggingFace Transformers for LLMs
+tokenizers==0.13.2            # Efficient tokenization for Transformers
+
+PyPDF2==3.0.1                 
+pymupdf==1.22.5               
+
+
+numpy==1.26.0                 
+pandas==2.1.1                 
+langchain==0.0.325 
+#aisuite
